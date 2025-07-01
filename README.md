@@ -1,5 +1,7 @@
 # 🦠 Malaria Cell Classification Using Convolutional Neural Networks (CNN)
 
+![Malaria Cell Example](images/Malaria_Image.jpg)
+
 ## 📄 **Project Overview**
 
 This project focuses on building a **Convolutional Neural Network (CNN)** to classify **parasitized** and **uninfected** malaria cell images. The goal is to assist in **early and accurate diagnosis** of malaria using deep learning techniques. The model is built from scratch using **TensorFlow** and **Keras**, with careful image preprocessing to reduce training time and handle GPU limitations.
