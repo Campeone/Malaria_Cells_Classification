@@ -105,7 +105,7 @@ model.fit(
 loss, accuracy = model.evaluate(X_test, y_test)
 print(f"Test Accuracy: {accuracy * 100:.2f}%")
 ```
-
+![Confusion Matrix](images/Confusion_matrix.png)
 ---
 
 ## 💾 **Saving and Loading the Model**
