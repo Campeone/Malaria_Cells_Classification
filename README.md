@@ -30,7 +30,7 @@ cell_images/
     └── ...
 ```
 
-**Note:** The dataset can be accessed from the [NIH malaria dataset](https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#malaria-datasets).
+**Note:** The dataset can be accessed from the [Kaggle](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria).
 
 ---
 
@@ -183,7 +183,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## ⭐ **Acknowledgments**
 
-* [NIH Malaria Dataset](https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#malaria-datasets)
+* [Kaggle](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria)
 * TensorFlow & Keras Documentation
 * Google Colab for providing free GPU resources
 
