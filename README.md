@@ -177,7 +177,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 💬 **Contact**
 
-**Campeone Analytics**
+**Ojo Timilehin**
 📧 [ojotimilehin01@gmail.com](mailto:ojotimilehin01@gmail.com)
 📞 +2348143684739
 
